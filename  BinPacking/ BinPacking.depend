@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1414513606 source:h:\documente\projects\cosmin\ binpacking\main.cpp
+	<iostream>
+	<fstream>
+

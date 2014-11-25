@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416930904 source:h:\documente\projects\cosmin\roata\main.cpp
+	<iostream>
+	<fstream>
+

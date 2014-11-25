@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416327281 source:h:\documente\projects\cosmin\elicop\main.cpp
+	<iostream>
+	<fstream>
+
