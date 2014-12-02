@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417537306 source:h:\documente\projects\cosmin\fotografie\main.cpp
+	<iostream>
+	<fstream>
+
