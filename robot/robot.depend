@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1420561160 source:h:\documente\projects\cosmin\robot\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
